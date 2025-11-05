@@ -15,8 +15,8 @@ The **Lucky Number Game** combines basic Python programming concepts like:
 - Date and age calculation using the `datetime` module
 
 There are **two implementations**:
-1. **Functional version (`lucky_number_game.py`)** — written with standalone functions.
-2. **Object-Oriented version (`lucky_number_game_class.py`)** — organized into classes for better structure and reusability.
+1. **Functional version (`functions.py`)** — written with standalone functions.
+2. **Object-Oriented version (`class_model.py`)** — organized into classes for better structure and reusability.
 
 ---
 
